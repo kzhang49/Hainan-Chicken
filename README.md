@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hainan Chicken
 
 You can use the [editor on GitHub](https://github.com/kzhang49/Hainan-Chicken/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
