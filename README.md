@@ -1,8 +1,8 @@
-## Hainan Chicken
+## Hainan Chicken - Analysis of Airbnb Database
 
-You can use the [editor on GitHub](https://github.com/kzhang49/Hainan-Chicken/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image]()
+- Group member: Yiwen Shen, Kunyu Zhang, Li Zhu
+- Group blog: [click here](https://hainanchicken.wordpress.com/)
 
 ### Markdown
 
